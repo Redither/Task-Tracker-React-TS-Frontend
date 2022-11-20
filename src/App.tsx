@@ -38,8 +38,8 @@ function App() {
         <Sidebar />
         <Routes>
           <Route path="/tasks" element={<TasksPage />} />
-          <Route path="/employees" element={<EmployeePage />} />
           <Route path="/groups" element={<GroupPage />} />
+          <Route path="/employees" element={<EmployeePage />} />
         </Routes>
       </main>
       <Footer/>

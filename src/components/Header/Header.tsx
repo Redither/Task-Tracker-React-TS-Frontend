@@ -10,13 +10,13 @@ const routes = [
     },
     {
         id: 1,
-        route: '/employees',
-        text: 'Employees'
+        route: '/groups',
+        text: 'Groups'
     },
     {
         id: 2,
-        route: '/groups',
-        text: 'Groups'
+        route: '/employees',
+        text: 'Employees'
     },
 ]
 
